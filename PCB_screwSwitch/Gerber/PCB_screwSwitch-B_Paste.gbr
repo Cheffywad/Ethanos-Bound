@@ -1,0 +1,20 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-05-09T18:55:12-05:00*%
+%TF.ProjectId,PCB_screwSwitch,5043425f-7363-4726-9577-537769746368,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-05-09 18:55:12*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,8.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H2*%
+X162500000Y-85000000D03*
+%TD*%
+M02*

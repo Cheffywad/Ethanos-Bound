@@ -1,4 +1,4 @@
-24654727920196318
+24654742932322130
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2565,27 +2565,6 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
-0
-2
-2
-C1210C476K8RACTU
-CAPC350272_280N_KEM
-
-C1210C476K8RACTU 
-0
-2
-2
-C1210C476K8RACTU
-CAPC350272_280N_KEM-L
-
-C1210C476K8RACTU 
-0
-2
-2
-C1210C476K8RACTU
-CAPC350272_280N_KEM-M
-
-C1210C476K8RACTU 
 0
 2
 2
@@ -65834,6 +65813,20 @@ Yellow 5381 Series LED
 0
 2
 2
+MFR-25FBF52-243K
+YAG_MF25_YAG
+
+MFR-25FBF52-243K 
+0
+2
+2
+MPQ8634AGLE_Z
+QFN-3x4_MPQ8634A_MNP
+
+MPQ8634AGLE-Z 
+0
+21
+21
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -87527,13 +87520,6 @@ Potentiometer vertical vishay
 0
 3
 3
-QFN-3x4_MPQ8634A_MNP
-QFN-3x4_MPQ8634A_MNP
-
-MPQ8634AGLE-Z 
-0
-21
-21
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -88787,13 +88773,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-ROX1SJ100K
-res2_1-1625885-7_TEC
-
-ROX1SJ100K 
-0
-2
-2
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -92756,6 +92735,13 @@ Logo WEEE
 0
 0
 0
+Teeny
+MODULE_DEV-16771
+
+
+0
+65
+65
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -99392,6 +99378,20 @@ AMASS_XT30PW-M
 0
 4
 4
+parts_footprints
+hole_bottom
+
+
+0
+1
+1
+parts_footprints
+hole_center
+
+
+0
+0
+0
 parts_footprints
 hole_top
 

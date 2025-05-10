@@ -1069,7 +1069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "parts_footprints:hole_bottom"
 			(at 118.11 81.28 0)
 			(effects
 				(font
